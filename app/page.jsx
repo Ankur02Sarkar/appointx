@@ -47,7 +47,7 @@ const Home = () => {
       <div className="flex flex-col lg:flex-row items-center justify-between gap-12 mb-24">
         <div className="lg:w-1/2">
           <h1 className="text-7xl font-extrabold gradient-title pb-6">
-            Simplify Your Scheduling
+            Simplify Your Appointments
           </h1>
           <p className="text-xl text-gray-600 mb-10">
             AppointX helps you manage your time effectively. Create events, set
@@ -63,7 +63,7 @@ const Home = () => {
           <div className="relative w-full max-w-md aspect-square">
             <Image
               src="/poster.png"
-              alt="Scheduling illustration"
+              alt="Appointments illustration"
               layout="fill"
               objectFit="contain"
             />
@@ -126,7 +126,7 @@ const Home = () => {
       {/* CTA Section */}
       <div className="bg-blue-600 text-white rounded-lg p-8 text-center">
         <h2 className="text-3xl font-bold mb-4">
-          Ready to Simplify Your Scheduling?
+          Ready to Simplify Your Appointments?
         </h2>
         <p className="text-xl mb-6">
           Join thousands of professionals who trust AppointX for efficient time

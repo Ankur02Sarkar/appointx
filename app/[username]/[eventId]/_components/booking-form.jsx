@@ -162,7 +162,7 @@ export default function BookingForm({ event, availability }) {
             />
           </div>
           <Button type="submit" disabled={loading} className="w-full">
-            {loading ? "Scheduling..." : "Schedule Event"}
+            {loading ? "Appointing..." : "Appoint Event"}
           </Button>
         </form>
       )}

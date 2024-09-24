@@ -17,7 +17,7 @@ export async function generateMetadata({ params }) {
 
   return {
     title: `Book ${event.title} with ${event.user.name} | Your App Name`,
-    description: `Schedule a ${event.duration}-minute ${event.title} event with ${event.user.name}.`,
+    description: `Appoint a ${event.duration}-minute ${event.title} event with ${event.user.name}.`,
   };
 }
 

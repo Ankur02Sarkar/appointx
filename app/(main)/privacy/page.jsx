@@ -36,7 +36,7 @@ export default function PrivacyPolicy() {
               information.
             </li>
             <li>
-              Scheduling data such as appointment details and preferences.
+              Appointments data such as appointment details and preferences.
             </li>
             <li>
               Device and usage data, including IP addresses and browsing
